@@ -1,0 +1,2 @@
+[{"imagen":"http://127.0.0.1:5500/img/curso1.jpg","titulo":"HTML5, CSS3, JavaScript para Principiantes","precio":"$15","id":"1"},
+{"imagen":"http://127.0.0.1:5500/img/curso4.jpg","titulo":"Cosecha tus propias frutas y verduras","precio":"$15","id":"9"}]
